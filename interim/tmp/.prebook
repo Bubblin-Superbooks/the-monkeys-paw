@@ -21,7 +21,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "frontis.jpg"
+    "innerHtml": "/images/frontis.jpg"
   },
   {
     "tag": "hr",
@@ -581,7 +581,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "002.jpg"
+    "innerHtml": "/images/002.jpg"
   },
   {
     "tag": "p",
